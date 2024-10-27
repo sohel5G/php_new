@@ -17,7 +17,12 @@
 
     ?>
 
+    <?php 
+        $name = "Abdullah Al Araf";
+        $amount = "220";
+    ?> 
 
+    <h3>hello <?php $name; ?> your total money is <?php $amount; ?> taka</h3>
 
 
 </body>
