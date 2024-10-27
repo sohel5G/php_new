@@ -7,13 +7,14 @@
 </head>
 <body>
     <h1>Hello World</h1>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam libero ex, optio consectetur tempora doloribus sint et quis quos ducimus vitae praesentium blanditiis nihil tempore, voluptas aut quas a dolorem, totam saepe! Illo voluptatem voluptatibus distinctio doloremque reiciendis, a quaerat. Autem optio eum blanditiis laudantium pariatur dolorum, perferendis doloremque consectetur.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam libero ex, optio</p>
 
     <?php
 
-    $name = "Sohel Rana";
+        $name = "Sohel Rana";
 
         echo "Hello $name";
+
     ?>
 
 

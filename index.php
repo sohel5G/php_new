@@ -7,21 +7,7 @@
 </head>
 <body>
     
-    <?php  
+    <h1> <?php echo "Silence is golder"; ?> </h1>
 
-    $myCode = "Code";
-
-    echo "Hello World";
-
-    echo "<br/> OR <p>This is para</p> <br/>";
-
-    echo "So I have run this $myCode";
-
-    ?>
-
-
-    <div>
-        Footer area
-    </div>
 </body>
 </html>
