@@ -13,8 +13,9 @@
 
     define("NAME", "Sohel Rana");
 
-    echo NAME;
-
+    echo "Your name is " . NAME;
+    echo "<br/>";
+    echo "Your name is " . constant("NAME");
 
     ?> 
 
