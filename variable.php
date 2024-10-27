@@ -11,8 +11,14 @@
 
     <?php
 
-        echo "Hello World";
+    $name = "Sohel Rana";
+
+        echo "Hello $name";
     ?>
+
+
+
+
 </body>
 </html>
 
