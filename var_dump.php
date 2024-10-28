@@ -13,9 +13,9 @@
         // $var_name = "Abdullah Al Araf";
         // $var_name = 123;
         $var_name = 123.34;
-        // $var_name = false;
+        $var_name_2 = false;
 
-        var_dump($var_name);
+        var_dump($var_name, $var_name_2);
 
     ?>
 
