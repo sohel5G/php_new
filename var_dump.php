@@ -10,11 +10,15 @@
     <h1>Var Dump</h1>
 
     <?php
-        $name = "Abdullah Al Araf";
+        // $var_name = "Abdullah Al Araf";
+        // $var_name = 123;
+        $var_name = 123.34;
+        // $var_name = false;
 
-        var_dump($name);
+        var_dump($var_name);
 
     ?>
 
 </body>
 </html>
+
