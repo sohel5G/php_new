@@ -14,7 +14,7 @@
             $var_2 = 123;  // integer
             $var_3 = 123.34; // Float / Decimal 
             $var_4 = true; // false; // Boolian
-            $var_5 = null;
+            $var_5 = null; // "keep a empty value"
 
         ?>
 
