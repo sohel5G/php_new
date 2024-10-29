@@ -31,6 +31,7 @@
         
         ";
 
+        
 
 
         printf($html_block, ucwords($fname), $lname);
