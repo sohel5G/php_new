@@ -18,14 +18,26 @@
             %=
         */
 
-        
+
         $assignment = 230; 
 
         $assignment += 230; 
 
         echo $assignment;
 
+        echo "<br/>";
+        echo "<br/>";
+        echo "<br/>";
+
+        $amount = 10;
+
+        $amount -= 5;
+
+        echo $amount;
+
+
     ?>
 
 </body>
 </html>
+
