@@ -22,7 +22,7 @@
 
         echo "<br/>";
 
-        $user = ($age > 16) ? "Admin" : "Guest";
+        $user = ( $age > 16 ) ? "Admin" : "Guest";
         echo $user;
 
     ?>
