@@ -11,7 +11,7 @@
           $age = 14;
           $class = 12;
   
-          $user = ( $age > 16 || $class > 10 ) ? "Admin" : "Guest";
+          $user = ( $age > 16 || $class > 14 ) ? "Admin" : "Guest";
           echo $user;
     ?>
 </body>
