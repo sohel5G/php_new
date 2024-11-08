@@ -6,6 +6,9 @@
     <title>OR Operator</title>
 </head>
 <body>
+
+<a href="https://atlasworxs.com/terms-conditions/">Terms</a>and<a href="https://atlasworxs.com/privacy-policy/">Privacy Policy</a>
+
     <?php
           $user = "";
           $age = 14;
