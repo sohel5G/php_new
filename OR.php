@@ -7,8 +7,6 @@
 </head>
 <body>
 
-<a href="https://atlasworxs.com/terms-conditions/">Terms</a>and<a href="https://atlasworxs.com/privacy-policy/">Privacy Policy</a>
-
     <?php
           $user = "";
           $age = 14;
@@ -17,5 +15,7 @@
           $user = ( $age > 16 || $class > 14 ) ? "Admin" : "Guest";
           echo $user;
     ?>
+
+    
 </body>
 </html> 
