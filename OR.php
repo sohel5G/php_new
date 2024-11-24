@@ -14,6 +14,7 @@
   
           $user = ( $age > 16 || $class > 14 ) ? "Admin" : "Guest";
           echo $user;
+
     ?>
 
     
