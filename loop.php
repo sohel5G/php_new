@@ -7,9 +7,8 @@
 </head>
 <body>
     
+    <h1>// While Loop</h1>
     <?php
-
-       // While Loop
 
        $x = 1; 
        while($x <= 10){
@@ -19,7 +18,7 @@
     ?>
 
     <form action="#">
-        <h1>Choose Years</h1>
+        <h5>Choose Years</h5>
         <select name="#" id="#">
 
             <?php /*
@@ -43,6 +42,11 @@
         </select>
     </form>
 
+
+    <h1>// Do While Loop</h1>
+
+
+    
 
 </body>
 </html>
