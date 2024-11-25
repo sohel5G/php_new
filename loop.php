@@ -22,13 +22,21 @@
         <h1>Choose Years</h1>
         <select name="#" id="#">
 
-            <?php 
+            <?php /*
                 $year = 2000;
                 while($year < 2024){
                     $year++;
 
                     ?> <option value="#">Years <?php echo $year ?></option> <?php
 
+                }
+            */?>
+            
+            <?php
+                $year = 2000;
+                while($year <= 2024){
+                    $year ++;
+                    echo "<option value='$year'>Years $year</option>";
                 }
             ?>
 
