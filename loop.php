@@ -45,6 +45,15 @@
 
     <h1>// Do While Loop</h1>
 
+    <?php
+
+        $count = 10;
+
+        do {
+            echo $count++ . "<br/>";
+        } while( $count >= 20 );
+     
+    ?>
 
     
 
