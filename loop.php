@@ -50,8 +50,12 @@
         $count = 10;
 
         do {
-            echo $count++ . "<br/>";
-        } while( $count >= 20 );
+
+            echo $count . "<br/>";
+
+            $count++;
+            
+        } while( $count <= 20 );
      
     ?>
 
