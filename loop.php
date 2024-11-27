@@ -64,12 +64,23 @@
 
     <?php
 
-    for ($count=0; $count <= 10; $count++) { 
-        echo $count . "<br/>";
-    }
+        for ($count=0; $count <= 10; $count++) { 
+            echo $count . "<br/>";
+        }
 
     ?>
 
+    <ul>
+
+        <?php
+            for ($i=1; $i <= 10; $i++) { 
+                ?> 
+                    <li>user <?php echo $i ?> </li> 
+                <?php
+            }
+        ?>
+        
+    </ul>
 
 </body>
 </html>
