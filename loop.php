@@ -60,6 +60,14 @@
     ?>
 
     
+    <h1>For Loop</h1>
+
+    <?php
+
+    
+
+    ?>
+
 
 </body>
 </html>
