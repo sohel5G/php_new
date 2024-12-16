@@ -10,10 +10,17 @@
         for ($i=0; $i < 10; $i++) { 
             echo "PHP <br>";
            
-            if($i != 6){
-                echo "is <br>";
-                echo "awesome <br><br><br>";
+            // if($i != 6){
+            //     echo "is <br>";
+            //     echo "awesome <br><br><br>";
+            // }
+
+            if($i == 6){
+                continue;
             }
+
+            echo "is <br>";
+            echo "awesome <br><br><br>";
 
         }
     ?>
